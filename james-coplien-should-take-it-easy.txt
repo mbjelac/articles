@@ -1,0 +1,21 @@
+James Coplien should take it easy
+
+Today I saw a talk from James Colien on this year's GOTO conference: "The Dehumanisation of Agile and Objects"
+https://www.youtube.com/watch?v=ZrBQmIDdls4&t=2959s
+
+The introductory history was interesting. Other talks on the subject usually don't include such visually clear descriptions.
+
+However, after the intro, the talk gradually transitioned into a rant about how agile and OOP are ruined ("driven into the ground") by various culprits, one of them being TDD.
+
+I'm a TDD-er so naturally I have to say something on the subject. :)
+
+I agree that unit testing using TDD cannot bring about a well-designed system which meets customer requirements.
+The best you can do with unit-level TDD is to have clean units of code that do exactly what you wanted them to do when yo wrote their unit tests.
+Nothing more and nothing less. 
+
+
+
+"Yeah, like THATS gonna work!"
+
+
+objects are user's mental model vs. interface is everything
