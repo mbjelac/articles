@@ -11,9 +11,18 @@ I'm a TDD-er so naturally I have to say something on the subject. :)
 
 I agree that unit testing using TDD cannot bring about a well-designed system which meets customer requirements.
 The best you can do with unit-level TDD is to have clean units of code that do exactly what you wanted them to do when yo wrote their unit tests.
-Nothing more and nothing less. 
+Nothing more and nothing less.
 
+So, when James says that TDD leads to a bottom-up architecture, he's right. The only thing is - you should design your system using TDD. TDD shold be used for designing the lowest level of your architecture - the actual business logic.
 
+The levels above should be designed with "common sense", specifically:
+- using the domain language of the business the software is for
+- using object-oriented principles (e.g. SOLID https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+- using a helpful visualization method like CRC cards or object diagrams
+
+James mentiones all this, but to him, these methods should be used to design the whole system, not just the higher level stuff.
+
+acceptance tests?
 
 "Yeah, like THATS gonna work!"
 
