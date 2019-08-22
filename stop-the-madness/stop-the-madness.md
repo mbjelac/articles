@@ -32,7 +32,7 @@ Flummoxed by this "logic", Bunny drives to another repair shop.
 
 ## Explanation
 
-The "new tools" in the fable are of course tests. They are not at all "new" since the modern concept of software testing has been known since the end of the 20th century - so, over 20 years now - but writing software without tests has been going on for even longer and is much more widespread, so "new" is appropriate in that context.
+The "new tools" in the fable are of course tests. They are not at all "new" since the modern concept of software testing has been well known at least since the end of the 20th century - so, over 20 years now - but writing software without tests has been going on for even longer and is much more widespread, so "new" is appropriate in that context.
 
 The mechanic's hours in the fable are actual developer hours. The paradox of the fable is that Bear will charge more when he uses the new tools  although he will spend less time (i.e. money) when using them.
 
@@ -52,7 +52,7 @@ Some of those developers see their codebases gradually turn to code-swamps which
 
 These developers may want to change the way they work. The way their team works. Perhaps even the way their company works. This is hard.
 
-Imagine a developer trying to get their team to start writing tests when most in the team either cannot grasp the value or shrug it off as too much work. Imagine them trying to get their team to start doing TDD when most in the team don't see the benefits or cannot begin to look where to start. Add to that other organisational issues like management pressure, optimistic estimates (especially when given to developers together with requirements), communication disfunction etc. It's like pushing a huge bolder up a hill, only the bolder gets heavier and the hill gets steeper.
+Imagine a developer trying to get their team to start writing tests when most in the team either cannot grasp the value or shrug it off as too much work. Imagine them trying to get their team to start doing TDD when most in the team don't see the benefits or cannot begin to look where to start. Add to that other organisational issues like management pressure, optimistic estimates (especially when given to developers together with requirements), communication disfunction etc. It's like pushing a huge boulder up a hill, only the boulder gets heavier and the hill gets steeper.
 
 Now imagine the developer trying to do all that in a company which has test-less software as a part of their *commercial offering*. If a client didn't pay extra for tests, the developer *mustn't write tests*.
 
